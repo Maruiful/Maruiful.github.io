@@ -4,9 +4,10 @@ layout: BlogHome
 icon: house
 title: Blog Home
 heroImage: myLogo.svg
-heroText: The name of your blog
+heroText: Maruiful
 tagline: You can put your slogan here
-heroFullScreen: true
+bgImage: bg.png
+heroFullScreen: false
 projects:
   - icon: folder-open
     name: project name
