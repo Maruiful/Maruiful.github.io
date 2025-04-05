@@ -89,4 +89,9 @@ export const zhNavbar = navbar([
     icon: "book",
     link: "https://theme-hope.vuejs.press/zh/",
   },
+  {
+    text: "Java后端开发",
+    icon: "book",
+    link: "/Java_backend_develop/",
+  },
 ]);
