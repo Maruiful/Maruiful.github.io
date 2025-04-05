@@ -13,7 +13,7 @@ export default hopeTheme({
 
   logo: "myLogo.svg",
 
-  repo: "https://github.com/Maruiful?tab=repositories",
+  // repo: "https://github.com/Maruiful?tab=repositories",
 
   docsDir: "src",
 
