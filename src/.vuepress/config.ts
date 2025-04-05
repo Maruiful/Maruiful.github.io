@@ -6,11 +6,11 @@ export default defineUserConfig({
   base: "/",
 
   locales: {
-    // "/": {
-    //   lang: "en-US",
-    //   title: "The blog of Maruiful",
-    //   description: "The blog of Maruiful",
-    // },
+    "/": {
+      lang: "en-US",
+      title: "The blog of Maruiful",
+      description: "The blog of Maruiful",
+    },
     "/zh/": {
       lang: "zh-CN",
       title: "The blog of Maruiful",
