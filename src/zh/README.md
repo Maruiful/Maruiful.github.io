@@ -5,7 +5,7 @@ icon: house
 title: 博客主页
 heroImage: myLogo.svg
 heroText: Maruiful
-heroFullScreen: true
+heroFullScreen: false
 tagline: 你可以在这里放置你的口号与标语
 projects:
   - icon: folder-open
