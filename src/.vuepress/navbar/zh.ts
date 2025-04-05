@@ -92,6 +92,6 @@ export const zhNavbar = navbar([
   {
     text: "Java后端开发",
     icon: "book",
-    link: "/Java_backend_develop/",
+    link: "/zh/Java_backend_develop/",
   },
 ]);
