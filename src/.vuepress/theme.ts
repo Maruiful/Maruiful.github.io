@@ -11,7 +11,7 @@ export default hopeTheme({
     // url: "https://mister-hope.com",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/myLogo.png",
+  logo: "myLogo.png",
 
   repo: "https://github.com/Maruiful?tab=repositories",
 
