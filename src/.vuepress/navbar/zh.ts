@@ -45,16 +45,16 @@ export const zhNavbar = navbar([
   //     "strawberry",
   //   ],
   // },
-  {
-    text: 'React系列',
-    icon: 'react',
-    link: '/react/'
-  },
-  {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
-  },
+  // {
+  //   text: 'React系列',
+  //   icon: 'react',
+  //   link: '/react/'
+  // },
+  // {
+  //   text: "V2 文档",
+  //   icon: "book",
+  //   link: "https://theme-hope.vuejs.press/zh/",
+  // },
   {
     text: "Java后端开发",
     icon: "book",
