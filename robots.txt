@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://maruiful.github.io/sitemap.xml
+Sitemap: https://maruiful.github.io/zh/sitemap.xml
