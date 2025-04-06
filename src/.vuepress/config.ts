@@ -11,7 +11,7 @@ export default defineUserConfig({
       title: "The blog of Maruiful",
       description: "The blog of Maruiful",
       head: [
-        ["link", { rel: "icon", href: "/myLgo.svg" }],
+        ["link", { rel: "icon", href: "/myLgo.jpg" }],
       ]
     },
     "/zh/": {
@@ -19,7 +19,7 @@ export default defineUserConfig({
       title: "The blog of Maruiful",
       description: "Maruiful的博客",
       head: [
-        ["link", { rel: "icon", href: "/myLgo.svg" }],
+        ["link", { rel: "icon", href: "/myLgo.jpg" }],
       ]
     },
   },
