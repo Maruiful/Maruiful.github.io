@@ -4,7 +4,7 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://maruiful.github.io/zh",
+  hostname: "https://maruiful.github.io/",
 
   author: {
     name: "Maruiful",
