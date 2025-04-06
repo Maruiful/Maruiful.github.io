@@ -24,6 +24,6 @@ export const zhSidebar = sidebar({
   //     link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
   //   },
   // ],
-  "/zh/demo/": "structure",
+  "/demo/": "structure",
   // "/zh/posts/": "structure",
 });

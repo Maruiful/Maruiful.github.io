@@ -71,7 +71,7 @@ export default hopeTheme({
 
       blog: {
         description: "A FrontEnd programmer",
-        intro: "/intro.html",
+        intro: "/en/intro.html",
       },
 
       metaLocales: {
@@ -82,7 +82,7 @@ export default hopeTheme({
     /**
      * Chinese locale config
      */
-    "/zh/": {
+    "/": {
       // navbar
       navbar: zhNavbar,
 
@@ -95,7 +95,7 @@ export default hopeTheme({
 
       blog: {
         description: "211信息安全本科在读混子但是开发",
-        intro: "/zh/intro.html",
+        intro: "/intro.html",
       },
 
       // page meta
@@ -111,7 +111,7 @@ export default hopeTheme({
         hint: "Password: 1234",
         password: "1234",
       },
-      "/zh/demo/encrypt.html": {
+      "/en/demo/encrypt.html": {
         hint: "Password: 1234",
         password: "1234",
       },
