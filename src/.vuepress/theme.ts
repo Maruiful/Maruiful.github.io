@@ -58,31 +58,31 @@ export default hopeTheme({
   },
 
   locales: {
-    // "/": {
-    //   // navbar
-    //   navbar: enNavbar,
+    "/en/": {
+      // navbar
+      navbar: enNavbar,
 
-    //   // sidebar
-    //   sidebar: enSidebar,
+      // sidebar
+      sidebar: enSidebar,
 
-    //   footer: "Default footer",
+      footer: "Default footer",
 
-    //   displayFooter: true,
+      displayFooter: true,
 
-    //   blog: {
-    //     description: "A FrontEnd programmer",
-    //     intro: "/intro.html",
-    //   },
+      blog: {
+        description: "A FrontEnd programmer",
+        intro: "/intro.html",
+      },
 
-    //   metaLocales: {
-    //     editLink: "Edit this page on GitHub",
-    //   },
-    // },
+      metaLocales: {
+        editLink: "Edit this page on GitHub",
+      },
+    },
 
     /**
      * Chinese locale config
      */
-    "/zh/": {
+    "/": {
       // navbar
       navbar: zhNavbar,
 
