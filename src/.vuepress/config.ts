@@ -15,6 +15,8 @@ export default defineUserConfig({
       lang: "zh-CN",
       title: "The blog of Maruiful",
       description: "Maruiful的博客",
+      head: [
+        ["link", { rel: "icon", href: "/myLgo.svg" }],]
     },
   },
 
