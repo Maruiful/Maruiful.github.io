@@ -4,7 +4,7 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://maruiful.github.io/",
+  hostname: "https://maruiful.github.io/zh/",
 
   author: {
     name: "Maruiful",
@@ -82,7 +82,7 @@ export default hopeTheme({
     /**
      * Chinese locale config
      */
-    "/": {
+    "/zh/": {
       // navbar
       navbar: zhNavbar,
 
