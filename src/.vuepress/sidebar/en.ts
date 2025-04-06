@@ -23,6 +23,6 @@ export const enSidebar = sidebar({
   //     link: "https://ecosystem.vuejs.press/plugins/markdown/revealjs/demo.html",
   //   },
   // ],
-  "/demo/": "structure",
-  "/posts/": "structure",
+  "/en/demo/": "structure",
+  "/en/posts/": "structure",
 });
