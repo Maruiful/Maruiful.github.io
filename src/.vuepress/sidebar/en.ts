@@ -24,5 +24,5 @@ export const enSidebar = sidebar({
   //   },
   // ],
   "/en/demo/": "structure",
-  "/en/posts/": "structure",
+  // "/en/posts/": "structure",
 });
