@@ -94,7 +94,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "211信安在读混子但是开发",
+        description: "211信息安全本科在读混子但是开发",
         intro: "/zh/intro.html",
       },
 
