@@ -2,7 +2,7 @@ import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
   "/",
-  "/demo/",
+  // "/demo/",
   //下面是一个对象的示例
   // {
   //   text: "博文",
