@@ -56,6 +56,11 @@ export const zhNavbar = navbar([
   //   link: "https://theme-hope.vuejs.press/zh/",
   // },
   {
+    text: "宛陵旧事",
+    icon: "school",
+    link: "/stortyOfWanling",
+  },  
+  {
     text: "Java后端开发",
     icon: "book",
     link: "/Java_backend_develop/",

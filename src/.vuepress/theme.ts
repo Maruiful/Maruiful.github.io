@@ -210,6 +210,8 @@ export default hopeTheme({
       prefix: "fa6-solid:",
     },
 
+    
+
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
     //   favicon: "/favicon.ico",
