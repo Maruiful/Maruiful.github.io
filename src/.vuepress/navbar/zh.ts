@@ -58,7 +58,7 @@ export const zhNavbar = navbar([
   {
     text: "宛陵旧事",
     icon: "school",
-    link: "/stortyOfWanling",
+    link: "/storyOfWanling/",
   },  
   {
     text: "Java后端开发",
