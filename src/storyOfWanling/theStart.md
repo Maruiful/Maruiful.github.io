@@ -1,5 +1,5 @@
 ---
-title:一个开始	反思不堪的旧事
+title: 一个开始	反思不堪的旧事
 icon: desktop
 order: 1
 category:

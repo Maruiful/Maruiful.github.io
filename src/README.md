@@ -7,7 +7,7 @@ heroImage: myLogo.svg
 heroText: Maruiful
 bgImage: bg.png
 heroFullScreen: false
-tagline: 你可以在这里放置你的口号与标语
+tagline: 试上高峰窥皓月，偶开天眼觑红尘。
 projects:
   # - icon: folder-open
   #   name: 项目名称
