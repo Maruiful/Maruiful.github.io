@@ -59,24 +59,24 @@ export default hopeTheme({
 
   locales: {
     "/en/": {
-      // navbar
-      navbar: enNavbar,
+      // // navbar
+      // navbar: enNavbar,
 
-      // sidebar
-      sidebar: enSidebar,
+      // // sidebar
+      // sidebar: enSidebar,
 
-      footer: "Default footer",
+      // footer: "Default footer",
 
-      displayFooter: true,
+      // displayFooter: true,
 
-      blog: {
-        description: "A FrontEnd programmer",
-        intro: "/en/intro.html",
-      },
+      // blog: {
+      //   description: "A FrontEnd programmer",
+      //   intro: "/en/intro.html",
+      // },
 
-      metaLocales: {
-        editLink: "Edit this page on GitHub",
-      },
+      // metaLocales: {
+      //   editLink: "Edit this page on GitHub",
+      // },
     },
 
     /**
