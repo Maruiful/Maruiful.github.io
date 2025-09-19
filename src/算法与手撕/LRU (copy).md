@@ -1,3 +1,14 @@
+---
+title: 手撕LRU
+order: 1
+category:
+  - 算法与手撕
+tag:
+  - 淘汰策略
+  - 算法
+  - 手撕
+---
+
 # 手撕LRU
 
 ## 什么是LRU
@@ -14,7 +25,7 @@ LRU 全称是 **Least Recently Used（最近最少使用）**，是一种经典�
 
 下面是双向链表示意图
 
-<img src="https://gitee.com/Maruiful/imagehosting_1/raw/master/1/image-20250919110529928.png" alt="image-20250919110529928" style="zoom: 67%;" />
+![image-20250919110529928](https://gitee.com/Maruiful/imagehosting_1/raw/master/1/image-20250919110529928.png)
 
 下面是哈希表示意图
 
@@ -77,7 +88,7 @@ public int get(int key){
 
 往缓存中放入数据，这一步就需要注意了，我们创建的数据结构是给了capacity，对于capacity，我们会想到去扩容或者去淘汰，那么对于LRU来说就是淘汰，也就是移除tail之前的那一个节点（head和tail相当于是边界，是不动的，元素的增删在他们之间进行）。这里的逻辑是LRU最复杂的，首先需要判断放入的元素是否已经存在，如果存在就修改key对应的value，然后把它从链表中间移到最前面，这就体现了LRU的特性，长此以往，未被修改的元素会越来越靠后，知道capacity被占满然后移出去；如果不存在就很简单，新创建节点并放在链表头。
 
-<img src="https://gitee.com/Maruiful/imagehosting_1/raw/master/1/image-20250919132356360.png" alt="image-20250919132356360" style="zoom:67%;" />
+![image-20250919132356360](https://gitee.com/Maruiful/imagehosting_1/raw/master/1/image-20250919132356360.png)
 
 ```java
 public void put(int key,int value){
