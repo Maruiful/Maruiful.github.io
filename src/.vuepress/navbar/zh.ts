@@ -59,10 +59,15 @@ export const zhNavbar = navbar([
     text: "宛陵旧事",
     icon: "school",
     link: "/storyOfWanling/",
-  },  
+  },
   {
     text: "Java后端开发",
     icon: "book",
     link: "/Java_backend_develop/",
   },
+  {
+    text: "算法与手撕",
+    icon: "pencil",
+    link: "/算法与手撕/",
+  }
 ]);
