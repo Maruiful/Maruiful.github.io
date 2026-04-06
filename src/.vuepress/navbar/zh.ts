@@ -56,12 +56,12 @@ export const zhNavbar = navbar([
   //   link: "https://theme-hope.vuejs.press/zh/",
   // },
   {
-    text: "宛陵旧梦",
-    icon: "school",
-    link: "/storyOfWanling/",
+    text: "AI",
+    icon: "brain",
+    link: "/AI/",
   },
   {
-    text: "Java后端开发",
+    text: "Java",
     icon: "book",
     link: "/Java_backend_develop/",
   },
@@ -71,8 +71,8 @@ export const zhNavbar = navbar([
     link: "/算法与手撕/",
   },
   {
-    text: "AI",
-    icon: "brain",
-    link: "/AI/",
+    text: "闲时札记",
+    icon: "school",
+    link: "/storyOfWanling/",
   }
 ]);
