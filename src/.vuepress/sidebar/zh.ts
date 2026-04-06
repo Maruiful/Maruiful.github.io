@@ -26,5 +26,6 @@ export const zhSidebar = sidebar({
   // ],
   "/demo/": "structure",
   "/storyOfWanling/": "structure",
+  "/AI/": "structure",
   // "/zh/posts/": "structure",
 });

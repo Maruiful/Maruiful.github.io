@@ -3,6 +3,11 @@ import { navbar } from "vuepress-theme-hope";
 export const enNavbar = navbar([
   "/en/",
   "/en/demo/",
+  {
+    text: "AI",
+    icon: "brain",
+    link: "/en/AI/",
+  },
   // // {
   // //   text: "Posts",
   // //   icon: "pen-to-square",

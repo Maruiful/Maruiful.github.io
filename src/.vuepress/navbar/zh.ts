@@ -69,5 +69,10 @@ export const zhNavbar = navbar([
     text: "算法与手撕",
     icon: "pencil",
     link: "/算法与手撕/",
+  },
+  {
+    text: "AI",
+    icon: "brain",
+    link: "/AI/",
   }
 ]);
